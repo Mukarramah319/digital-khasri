@@ -9,7 +9,7 @@ body {
 
 .clock {
   display: inline-block;
-  font-size: 48px;
+  font-size: 200px;
   padding: 20px;
   border: 5px solid #61dafb;
   border-radius: 10px;
